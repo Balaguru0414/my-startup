@@ -1,0 +1,28 @@
+
+img{
+	width: 120px;height: 150px;border: 2px solid black;
+}
+body{
+	margin: 100px;
+}
+a:hover{
+	color:white;background: black ;text-decoration: none;
+}
+div{
+	background-color: #a4d2f5;padding: 5px; margin: 15px;
+}
+table{
+	width: 100%; height: 250px;border-collapse: collapse;border: 1px solid black;
+}
+th{
+	border: 1px solid black;
+}
+td{
+	border: 1px solid black;
+}
+div.resume{
+	position: sticky; text-align: center;font-weight: bold;font-size: 30px;
+}
+div.img{
+	position: absolute;top: 180px;right: 120px;
+}
