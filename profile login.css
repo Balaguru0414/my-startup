@@ -1,0 +1,80 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	
+	background-image:url(beach1.jpg) ;
+	background-size: cover;
+}
+
+.container{
+	height: 100vh;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+
+img{
+	border-radius: 50%;
+	position: absolute;
+	margin-top: -170px;
+	
+}
+
+.card{
+
+	padding:70px 40px 50px 40px ;
+	background: rgb(50, 50, 50);
+	border-radius: 20px;
+	box-shadow: 10px 10px 18px whitesmoke,-10px -10px 18px whitesmoke;
+}
+
+.name{
+	width: 300px;
+	background: transparent;
+	font-size: 16px;
+	color: white;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid white;
+	padding-bottom: 15px;
+	margin-bottom: 35px;
+}
+
+.btn{
+	border-radius: 20px;
+	padding: 10px 20px;
+	background: dodgerblue;
+	margin-left: 35%;
+	margin-top: 30px;
+	color: white;
+	border: none;
+	outline: none;
+	box-shadow: 2px 2px 4px gray;
+}
+
+a{
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
